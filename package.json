@@ -13,8 +13,8 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.8",
-    "nuxt": "^2.0.0",
-    "svg-sprite-loader": "^4.1.2"
+    "nuxt": "^2.15.8",
+    "svg-sprite-loader": "^6.0.11"
   },
   "devDependencies": {
     "nodemon": "^1.11.0"
